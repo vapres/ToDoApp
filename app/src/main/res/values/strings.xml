@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="developer">supervised by Mohamed Nabil</string>
+    <string name="title_toolbar">To Do List</string>
+    <string name="fab">fab</string>
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="mode">Mode</string>
+    <string name="light">Light</string>
+    <string name="add_new_task">Add new Task</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+</resources>

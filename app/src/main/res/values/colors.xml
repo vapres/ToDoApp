@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#010101</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_color">#DFECDB</color>
+    <color name="blue">#5D9CEC</color>
+    <color name="light_grey">#C8C9CB</color>
+    <color name="text_color">#FFFFFFFF</color>
+    <color name="appbar_color">#FFFFFFFF</color>
+    <color name="card_color">#FFFFFF</color>
+    <color name="calender_color">#FFFFFF</color>
+
+</resources>
