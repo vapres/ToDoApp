@@ -11,7 +11,7 @@ Todo App is a mobile application crafted to assist users in efficiently managing
 - User-friendly interface with a bottom app bar.
 - Add floating action button for quickly adding tasks.
 
-## Technologies Used
+## Technical Details
 
 - **XML Layouts**: Used for designing the user interface.
 - **Adapters**: Utilized for managing the display of tasks in the list.
